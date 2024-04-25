@@ -4,7 +4,7 @@
 
                                    Esboço de estudo para projeto Inter 2024.1
 
-                            >> ESTE NÃO É O PROJETO OFICIAL, FOI USADO COMO BASE PARA ESTUDOS <<
+                            >> PROJETO SPACEYES, NATIVO EM PYTHON PARA USO EM DESKTOP <<
 
 
 > Importar as bibliotecas necessárias tkinter, requests, pandas e matplotlib
